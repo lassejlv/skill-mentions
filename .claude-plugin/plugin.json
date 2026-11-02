@@ -1,0 +1,10 @@
+{
+  "name": "skill-mentions",
+  "version": "0.1.0",
+  "description": "Type $ in the prompt to autocomplete skills; mentioned skills are loaded for the model.",
+  "license": "MIT",
+  "author": {
+    "name": "lassejlv"
+  },
+  "repository": "https://github.com/lassejlv/skill-mentions"
+}

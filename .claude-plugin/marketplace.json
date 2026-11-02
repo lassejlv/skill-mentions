@@ -1,0 +1,13 @@
+{
+  "name": "skill-mentions",
+  "description": "Type $ in Claude Code to autocomplete skills.",
+  "owner": {
+    "name": "lassejlv"
+  },
+  "plugins": [
+    {
+      "name": "skill-mentions",
+      "source": "./"
+    }
+  ]
+}
